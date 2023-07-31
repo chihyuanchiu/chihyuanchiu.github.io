@@ -1,8 +1,25 @@
 # jemdoc: menu{MENU}{.html}, nofooter
 == Courses
 
-(To edit)
+Below is a list of the courses I have taken during my time as a Ph.D. student at UC Berkeley.
 
-== Courses Taken
-- Linear Systems Theory
-\n
+== Control and Systems Theory
+- EE 221A: Linear Systems Theory (Fall 2018)
+- EE 226A: Random Processes in Systems (Fall 2018)
+- EE C222: Nonlinear Systems
+
+== Optimization and Machine Learning
+- CS 289A: Introduction to Machine Learning (Spring 2019)
+- EE 227B:
+- EE 227C:
+
+== Mathematics
+- MATH 140: Metric Differential Geometry (Spring)
+- MATH C218A: Probability Theory (Fall 2019)
+- MATH 141:
+- MATH 214:
+
+== Other
+- EE 229A: Information Theory and Coding (Fall 2018)
+
+
