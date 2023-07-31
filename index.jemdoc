@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Jin Shang
+== Chih-Yuan Chiu
 
 ~~~
 {}{img_left}{photos/bio4.jpeg}{alt text}{326px}{245px}
@@ -7,40 +7,28 @@
 Applied Scientist II at [https://www.amazon.com/ Amazon] \n
 Seattle, Washington, United States \n
 \n
-Email: astrostell@gmail.com \n
-\[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
-~~~
-
-
-
-
-#at Baton Rouge, Louisiana, USA. (March 19, 2021)
-at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
-
-#== News
-#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
-#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
-#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
-#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
-#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
-#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
+Email: chihyuan underscore chiu at berkeley dot edu \n
+\[[https://scholar.google.com/citations?hl=en&user=cl9ModoAAAAJ&view_op=list_works&sortby=pubdate Google Scholar]\]\[[CV___Chih_Yuan_Chiu___most_recent.pdf Curriculem Vitae]\] \n
 
 == About me
 I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
 
+  I am a final-year Ph.D. student at the University of California, Berkeley, in the Department of Electrical Engineering and Computer Sciences. I am advised by [Professor Shankar Sastry](https://people.eecs.berkeley.edu/~sastry/) in the [Berkeley AI Research Lab](http://bair.berkeley.edu/).  Please call me Frank.
+  
+  My research involves the development of mathematical models to characterize multi-agent interactions in human-machine and machine-machine interactions. My work draws inspiration from mathematical tools in game theory, mechanism design, control theory, and dynamical systems theory.
+   
+  The best way to reach me is by email.
+
 == Education 
-- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
-- M.S. in Solid Mechanics, University of Science and Technology of China, Sep. 2013 - Jun. 2016
-- B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sep. 2009 - Jun. 2013
+- Ph.D. in Electrical Engineering and Computer Sciences, University of California, Berkeley, Aug. 2018 - Dec. 2023 (expected)
+- M.S. in Electrical Engineering and Computer Sciences, University of California, Berkeley, Sep. 2018 - Jun. 2020
+- B.S. in Electrical Engineering, National Taiwan University, Sep. 2014 - Jun. 2018
 
 == Research Interests 
-- Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
-- Data Mining, Information Retrieval, Recommender System 
-- Computer Vision, Computer Graphics, Natural Language Processing
+- Game Theory, Mechanism Design
+- Systems Theory, Control Theory
+- Convex Optimization, Nonlinear Optimization
 
-== Visitors
-~~~
-{}{raw}
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
-~~~
+== Miscellaneous
+Outside of research, I like to hike, try cooking new recipes, play board games, and read all kinds of books from biographies to fantasy novels.
 
