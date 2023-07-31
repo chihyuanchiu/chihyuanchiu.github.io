@@ -1,11 +1,9 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications
 
-(To edit)
+Please find below a selected list of my preprints, refereed conference publications, and refereed journal publications. (^\*^ Equal contribution.) For a complete list of my preprints and publications, please see [https://scholar.google.com/citations?hl=en&user=cl9ModoAAAAJ&view_op=list_works&sortby=pubdate my Google Scholar page.]
 
-Please find below a list of my preprints, refereed conference publications, and refereed journal publications. (^\*^ Equal contribution.)
-
-=== Preprints:
+=== Selected Preprints:
 
 - [https://arxiv.org/pdf/2307.05466.pdf Dynamic Tolling in Arc-based Traffic Assignment Models] \n
 -- *Chih-Yuan Chiu*, Chinmay Maheshwari, Pan-Yang Su, and Shankar Sastry. \n
@@ -15,7 +13,7 @@ Please find below a list of my preprints, refereed conference publications, and 
 -- *Chih-Yuan Chiu* and Shankar Sastry. \n
 -- (submitted to) 59th Annual Allerton Conference on Communication, Control, and Computing, 2023.
 
-=== Conference:
+=== Selected Conference Publications:
 
 - [https://arxiv.org/pdf/2307.05466.pdf Arc-based Traffic Assignment: Equilibrium Characterization and Learning] \n
 -- *Chih-Yuan Chiu*(^\*^), Chinmay Maheshwari(^\*^), Pan-Yang Su, and Shankar Sastry. \n
@@ -29,7 +27,11 @@ Please find below a list of my preprints, refereed conference publications, and 
 -- Jingqi Li, *Chih-Yuan Chiu*, Lasse Peters, Somayeh Sojoudi, Claire Tomlin, David Fridovich-Keil. \n
 -- International Conference on Autonomous Agents and Multiagent Systems (CDC), 2023.
 
-=== Journal
+=== Selected Journal Publications:
+
+- [https://epubs.siam.org/doi/pdf/10.1137/21M142530X The Computation of Approximate Generalized Feedback Nash Equilibria] \n
+-- Forrest Laine, David Fridovich-Keil, *Chih-Yuan Chiu*, and Claire Tomlin. \n
+-- SIAM Journal on Optimization, 2023.
 
 - [https://arxiv.org/pdf/2112.05921.pdf Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization] \n
 -- Amay Saxena(^\*^), *Chih-Yuan Chiu*(^\*^), Joseph Menke, Ritika Shrivastava, and Shankar Sastry. \n
