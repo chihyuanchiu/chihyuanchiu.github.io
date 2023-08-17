@@ -5,31 +5,27 @@ Please find below a selected list of my preprints, refereed conference publicati
 
 === Selected Preprints:
 
-- [https://arxiv.org/pdf/2307.05466.pdf Dynamic Tolling in Arc-based Traffic Assignment Models] \n
--- *Chih-Yuan Chiu*, Chinmay Maheshwari, Pan-Yang Su, and Shankar Sastry. \n
--- (submitted to) 59th Annual Allerton Conference on Communication, Control, and Computing, 2023.
-
-- [https://drive.google.com/file/d/1LM7BwxI4ntOpy8J8TFyOyLXNHIBi4kL7/view?usp=sharing Parameter Estimation in Optimal Tolling for Traffic Networks Under the Markovian Traffic Equilibrium] \n
--- *Chih-Yuan Chiu* and Shankar Sastry. \n
--- (submitted to) 59th Annual Allerton Conference on Communication, Control, and Computing, 2023.
-
-=== Selected Conference Publications:
-
 - [https://arxiv.org/pdf/2307.05466.pdf Arc-based Traffic Assignment: Equilibrium Characterization and Learning] \n
 -- *Chih-Yuan Chiu*\*, Chinmay Maheshwari\*, Pan-Yang Su, and Shankar Sastry. \n
--- 62nd IEEE Conference on Decision and Control (CDC), 2023.
+-- (accepted at) 62nd IEEE Conference on Decision and Control (CDC), 2023.
+
+- [https://arxiv.org/pdf/2307.05466.pdf Dynamic Tolling in Arc-based Traffic Assignment Models] \n
+-- *Chih-Yuan Chiu*, Chinmay Maheshwari, Pan-Yang Su, and Shankar Sastry. \n
+-- (accepted at) 59th Annual Allerton Conference on Communication, Control, and Computing, 2023.
 
 - [https://arxiv.org/pdf/2304.01945.pdf Scenario-Game ADMM: A Parallelized Scenario-Based Solver for Stochastic Noncooperative Games] \n
 -- Jingqi Li, *Chih-Yuan Chiu*, Lasse Peters, Fernando Palafox\*, Mustafa Karabag\*, Javier Alonso-Mora, Somayeh Sojoudi, Claire Tomlin, David Fridovich-Keil. \n
--- 62nd IEEE Conference on Decision and Control (CDC), 2023.
+-- (accepted at) 62nd IEEE Conference on Decision and Control (CDC), 2023.
+
+- [https://drive.google.com/file/d/1LM7BwxI4ntOpy8J8TFyOyLXNHIBi4kL7/view?usp=sharing Parameter Estimation in Optimal Tolling for Traffic Networks Under the Markovian Traffic Equilibrium] \n
+-- *Chih-Yuan Chiu* and Shankar Sastry. \n
+-- (submitted to) American Control Conference, 2024.
+
+=== Selected Conference Publications:
 
 - [https://arxiv.org/pdf/2301.01398.pdf Cost Inference for Feedback Dynamic Games from Noisy Partial State Observations and Incomplete Trajectories] \n
 -- Jingqi Li, *Chih-Yuan Chiu*, Lasse Peters, Somayeh Sojoudi, Claire Tomlin, David Fridovich-Keil. \n
--- International Conference on Autonomous Agents and Multiagent Systems (CDC), 2023.
-
-- [https://arxiv.org/pdf/2307.05466.pdf Arc-based Traffic Assignment: Equilibrium Characterization and Learning] \n
--- *Chih-Yuan Chiu*\*, Chinmay Maheshwari\*, Pan-Yang Su, and Shankar Sastry. \n
--- 62nd IEEE Conference on Decision and Control (CDC), 2023.
+-- International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023.
 
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10155957 SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial] \n
 -- *Chih-Yuan Chiu*. \n
