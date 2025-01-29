@@ -1,29 +1,28 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Chih-Yuan Chiu
+== Frank C.Y. Chiu
 
 ~~~
 {}{img_left}{photos/cyc_1.png}{alt text}{160px}{272px}
-*Chih-Yuan (Frank) Chiu* \n\n
-PhD Student, Department of Electrical Engineering and Computer Sciences (EECS) \n
-University of California, Berkeley \n
-Berkeley, CA 94720 \n
+*Frank (C.Y.) Chiu* \n\n
+Postdoctoral Fellow and Research Engineer II \n
+School of Electrical and Computer Engineering (ECE) \n
+Georgia Institute of Technology \n
 \n
-Email: chihyuan underscore chiu at berkeley dot edu \n
+Email: cyc at gatech dot edu \n
 \[[https://scholar.google.com/citations?hl=en&user=cl9ModoAAAAJ&view_op=list_works&sortby=pubdate Google Scholar]\]\[[CV___Chih_Yuan_Chiu___most_recent.pdf Curriculum Vitae]\] \n
 ~~~
 
 == About me
 
-  I received my Ph.D. in December 2023 from the University of California, Berkeley, in the Department of Electrical Engineering and Computer Sciences. I was advised by [https://people.eecs.berkeley.edu/~sastry/ Professor Shankar Sastry] in the [http://bair.berkeley.edu/ Berkeley AI Research Lab].  Please call me Frank. My research involves the development of mathematical models to characterize multi-agent human-machine and machine-machine interactions. My work applies mathematical tools in game theory, mechanism design, control theory, and dynamical systems theory to address pressing problems in traffic control, multi-agent path planning, and other engineering applications.
+  I received my Ph.D. in December 2023 from the University of California, Berkeley, in the Department of Electrical Engineering and Computer Sciences. I was advised by [https://people.eecs.berkeley.edu/~sastry/ Professor Shankar Sastry] in the [http://bair.berkeley.edu/ Berkeley AI Research Lab].  Please call me Frank. My research involves the development of mathematical models to characterize multi-agent human-machine and machine-machine interactions, with a particular focus on applications in modern and next-generation transportation systems. My work applies mathematical tools in game theory, mechanism design, control theory, and dynamical systems theory to address pressing problems in traffic control, multi-agent path planning, and other engineering applications.
    
-  The best way to reach me is by email, at chihyuan underscore chiu at berkeley dot edu.
-  
-  I am an incoming research faculty member (Research Engineer II) at Georgia Tech ECE.
+  The best way to reach me is by email, at cyc at gatech dot edu.
 
-== Education 
-- Ph.D. in Electrical Engineering and Computer Sciences, University of California, Berkeley, Aug. 2018 - Dec. 2023 (expected)
-- M.S. in Electrical Engineering and Computer Sciences, University of California, Berkeley, Sep. 2018 - Jun. 2020
-- B.S. in Electrical Engineering, National Taiwan University, Sep. 2014 - Jun. 2018
+== Academic Employment
+- Postdoctoral Fellow and Research Engineer II in the School of Electrical and Computer Engineering (ECE), Georgia Institute of Technology, Aug. 2024 - now
+- Ph.D. in Electrical Engineering and Computer Sciences (EECS), University of California, Berkeley, Aug. 2018 - Dec. 2023 (expected)
+- M.S. in Electrical Engineering and Computer Sciences (EECS), University of California, Berkeley, Sep. 2018 - Jun. 2020
+- B.S. in Electrical Engineering (EE), National Taiwan University, Sep. 2014 - Jun. 2018
 
 == Research Interests 
 - Game Theory, Mechanism Design
