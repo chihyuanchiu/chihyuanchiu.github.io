@@ -1,19 +1,47 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 == Publications
 
-Please find below a selected list of my preprints, refereed conference publications, and refereed journal publications, in reverse chronological order. (\* Equal contribution.) For a complete list of my preprints and publications, please see [https://scholar.google.com/citations?hl=en&user=cl9ModoAAAAJ&view_op=list_works&sortby=pubdate my Google Scholar page.]
+Please find below a selected list of my preprints, refereed conference publications, and refereed journal publications, in reverse chronological order. For a complete list of my preprints and publications, please see [https://scholar.google.com/citations?hl=en&user=cl9ModoAAAAJ&view_op=list_works&sortby=pubdate my Google Scholar page.]
 
-=== Selected Preprints:
+(\* Equal contribution.)
 
-- [https://drive.google.com/file/d/1LM7BwxI4ntOpy8J8TFyOyLXNHIBi4kL7/view?usp=sharing Parameter Estimation in Optimal Tolling for Traffic Networks Under the Markovian Traffic Equilibrium] \n
--- *Chih-Yuan Chiu* and Shankar Sastry. \n
--- (accepted at) American Control Conference, 2024.
+# === Selected Preprints:
 
-- [https://drive.google.com/file/d/1xLW2T6xhIhA7UNA5sMGJBqKPmqoEuoJM/view?usp=drive_link Approximately Optimal Toll Design for Efficiency and Equity in Arc-Based Traffic Assignment Models] \n
--- *Chih-Yuan Chiu*. \n
--- (submitted to) IEEE Intelligent Transportation Systems Conference, 2024.
+# - [https://drive.google.com/file/d/1xLW2T6xhIhA7UNA5sMGJBqKPmqoEuoJM/view?usp=drive_link Approximately Optimal Toll Design for Efficiency and Equity in Arc-Based Traffic Assignment Models] \n
+# -- *Chih-Yuan Chiu*. \n
+# -- (submitted to) IEEE Intelligent Transportation Systems Conference, 2024.
+
+=== Selected Journal Publications:
+
+- [https://ieeexplore.ieee.org/abstract/document/10766403 To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-sum Linear Quadratic Dynamic Games?] \n
+-- *Chih-Yuan Chiu*\*, Jingqi Li\*, Maulik Bhatt, and Negar Mehr. \n
+-- IEEE Control and Systems Letters (L-CSS), 2024.
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400882 Contingency Planning for Multi-Agent Interactions] \n
+-- Lasse Peters, Andrea Bajcsy, *Chih-Yuan Chiu*, David Fridovich-Keil, Forrest Laine, Laura Ferranti, and Javier Alonso-Mora. \n
+-- IEEE Robotics and Automation Letters (RA-L), 2023.
+
+- [https://www.sciencedirect.com/science/article/pii/S0016003223000960 Pursuit of a Discriminative Representation for Multiple Subspaces via Sequential Games] \n
+-- Druv Pai, Michael Psenka, *Chih-Yuan Chiu*, Manxi Wu, Edgar Dobriban, and Yi Ma. \n
+-- Journal of the Franklin Institute, 2023.
+
+- [https://epubs.siam.org/doi/pdf/10.1137/21M142530X The Computation of Approximate Generalized Feedback Nash Equilibria] \n
+-- Forrest Laine, David Fridovich-Keil, *Chih-Yuan Chiu*, and Claire Tomlin. \n
+-- SIAM Journal on Optimization, 2023.
+
+- [https://ieeexplore.ieee.org/abstract/document/9793570 Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization] \n
+-- Amay Saxena\*, *Chih-Yuan Chiu*\*, Joseph Menke, Ritika Shrivastava, and Shankar Sastry. \n
+-- IEEE Robotics and Automation Letters (RA-L), 2022.
 
 === Selected Conference Publications:
+
+- [https://arxiv.org/pdf/2403.13923 Credit vs. Discount-Based Congestion Pricing: A Comparison Study] \n
+-- *Chih-Yuan Chiu* and Devansh Jalota and Marco Pavone. \n
+-- IEEE Conference on Decision and Control (CDC), 2024.
+
+- [https://arxiv.org/pdf/2409.19765 Parameter Estimation in Optimal Tolling for Traffic Networks Under the Markovian Traffic Equilibrium] \n
+-- *Chih-Yuan Chiu* and Shankar Sastry. \n
+-- American Control Conference, 2024.
 
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10384151 Arc-based Traffic Assignment: Equilibrium Characterization and Learning] \n
 -- *Chih-Yuan Chiu*\*, Chinmay Maheshwari\*, Pan-Yang Su, and Shankar Sastry. \n
@@ -33,7 +61,7 @@ Please find below a selected list of my preprints, refereed conference publicati
 
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10155957 SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial] \n
 -- *Chih-Yuan Chiu*. \n
--- IEEE American Control Conference (ACC), 2023.
+-- American Control Conference (ACC), 2023.
 
 - [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9992656 GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios] \n
 -- *Chih-Yuan Chiu*, and David Fridovich-Keil. \n
@@ -52,16 +80,3 @@ Please find below a selected list of my preprints, refereed conference publicati
 -- Robotics: Science and Systems, 2020.
 
 
-=== Selected Journal Publications:
-
-- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400882 Contingency Planning for Multi-Agent Interactions] \n
--- Lasse Peters, Andrea Bajcsy, *Chih-Yuan Chiu*, David Fridovich-Keil, Forrest Laine, Laura Ferranti, and Javier Alonso-Mora. \n
--- IEEE Robotics and Automation Letters (RA-L), 2023.
-
-- [https://epubs.siam.org/doi/pdf/10.1137/21M142530X The Computation of Approximate Generalized Feedback Nash Equilibria] \n
--- Forrest Laine, David Fridovich-Keil, *Chih-Yuan Chiu*, and Claire Tomlin. \n
--- SIAM Journal on Optimization, 2023.
-
-- [https://arxiv.org/pdf/2112.05921.pdf Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization] \n
--- Amay Saxena\*, *Chih-Yuan Chiu*\*, Joseph Menke, Ritika Shrivastava, and Shankar Sastry. \n
--- IEEE Robotics and Automation Letters (RA-L), 2022.
