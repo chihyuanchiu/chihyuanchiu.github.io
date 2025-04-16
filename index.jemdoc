@@ -14,13 +14,16 @@ Email: cyc at gatech dot edu \n
 
 == About me
 
-  I received my Ph.D. in December 2023 from the University of California, Berkeley, in the Department of Electrical Engineering and Computer Sciences. I was advised by [https://people.eecs.berkeley.edu/~sastry/ Professor Shankar Sastry] in the [http://bair.berkeley.edu/ Berkeley AI Research Lab].  Please call me Frank.
+I am currently a Research Engineer II at the Georgia Institute of Technology, in the School of Electrical and Computer Engineering. My supervisor is [https://jrom.ece.gatech.edu/ Dr. Justin Romberg].
+
+  I received my Ph.D. in December 2023 from the University of California, Berkeley, in the Department of Electrical Engineering and Computer Sciences. I was advised by [https://people.eecs.berkeley.edu/~sastry/ Dr. Shankar Sastry] in the [http://bair.berkeley.edu/ Berkeley AI Research Lab].  Please call me Frank.
   
 In my research, I design algorithms to characterize, predict, and influence multi-agent human-machine and machine-machine interactions. I focus in particular on studying the following facets of decision-making in the context of modern and next-generation transportation systems:
 . *Game-theoretic motion prediction and planning*, to enable autonomous systems to model interactions with surrounding agents, and plan safe and efficient trajectories in real-time;
 . *Equitable and effective congestion control*, to reduce traffic congestion without increasing the commute times or costs of low-income travelers.
-My work applies mathematical tools in game theory, mechanism design, control theory, and dynamical systems theory to address pressing problems in traffic control, multi-agent path planning, and other engineering applications.
-   
+
+My research applies mathematical tools in game theory, mechanism design, control theory, and dynamical systems theory to address pressing problems in traffic control, multi-agent path planning, and other engineering applications.
+
   The best way to reach me is by email, at cyc at gatech dot edu.
 
 == Academic Employment
