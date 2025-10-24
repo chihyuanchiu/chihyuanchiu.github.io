@@ -1,0 +1,90 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications
+
+Please find below a selected list of my preprints, refereed conference publications, and refereed journal publications, in reverse chronological order. For a complete list of my preprints and publications, please see [https://scholar.google.com/citations?hl=en&user=cl9ModoAAAAJ&view_op=list_works&sortby=pubdate my Google Scholar page.]
+
+(\* Equal contribution.)
+
+# === Selected Preprints:
+
+# - [https://drive.google.com/file/d/1xLW2T6xhIhA7UNA5sMGJBqKPmqoEuoJM/view?usp=drive_link Approximately Optimal Toll Design for Efficiency and Equity in Arc-Based Traffic Assignment Models] \n
+# -- *Chih-Yuan Chiu*. \n
+# -- (submitted to) IEEE Intelligent Transportation Systems Conference, 2024.
+
+=== Selected Journal Publications:
+
+- [https://ieeexplore.ieee.org/abstract/document/11008557 Robustness of Incentive Mechanisms Against System Misspecification in Congestion Games] \n
+-- *Chih-Yuan Chiu* and Bryce Ferguson. \n
+-- IEEE Control and Systems Letters (L-CSS), 2025.
+
+- [https://ieeexplore.ieee.org/abstract/document/10766403 To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-sum Linear Quadratic Dynamic Games?] \n
+-- *Chih-Yuan Chiu*\*, Jingqi Li\*, Maulik Bhatt, and Negar Mehr. \n
+-- IEEE Control and Systems Letters (L-CSS), 2024.
+
+- [https://ieeexplore.ieee.org/document/10400882 Contingency Planning for Multi-Agent Interactions] \n
+-- Lasse Peters, Andrea Bajcsy, *Chih-Yuan Chiu*, David Fridovich-Keil, Forrest Laine, Laura Ferranti, and Javier Alonso-Mora. \n
+-- IEEE Robotics and Automation Letters (RA-L), 2023.
+
+- [https://www.sciencedirect.com/science/article/pii/S0016003223000960 Pursuit of a Discriminative Representation for Multiple Subspaces via Sequential Games] \n
+-- Druv Pai, Michael Psenka, *Chih-Yuan Chiu*, Manxi Wu, Edgar Dobriban, and Yi Ma. \n
+-- Journal of the Franklin Institute, 2023.
+
+- [https://epubs.siam.org/doi/pdf/10.1137/21M142530X The Computation of Approximate Generalized Feedback Nash Equilibria] \n
+-- Forrest Laine, David Fridovich-Keil, *Chih-Yuan Chiu*, and Claire Tomlin. \n
+-- SIAM Journal on Optimization, 2023.
+
+- [https://ieeexplore.ieee.org/abstract/document/9793570 Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization] \n
+-- Amay Saxena\*, *Chih-Yuan Chiu*\*, Joseph Menke, Ritika Shrivastava, and Shankar Sastry. \n
+-- IEEE Robotics and Automation Letters (RA-L), 2022.
+
+=== Selected Conference Publications:
+
+- [https://arxiv.org/pdf/2509.20355 Approximately Optimal Toll Design for Efficiency and Equity in Arc-Based Traffic Assignment Models] \n
+-- *Chih-Yuan Chiu*. \n
+-- 61st Annual Allerton Conference on Communication, Control, and Computing, 2025.
+
+- [https://arxiv.org/pdf/2403.13923 Credit vs. Discount-Based Congestion Pricing: A Comparison Study] \n
+-- *Chih-Yuan Chiu* and Devansh Jalota and Marco Pavone. \n
+-- IEEE Conference on Decision and Control (CDC), 2024.
+
+- [https://arxiv.org/pdf/2409.19765 Parameter Estimation in Optimal Tolling for Traffic Networks Under the Markovian Traffic Equilibrium] \n
+-- *Chih-Yuan Chiu* and Shankar Sastry. \n
+-- American Control Conference, 2024.
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10384151 Arc-based Traffic Assignment: Equilibrium Characterization and Learning] \n
+-- *Chih-Yuan Chiu*\*, Chinmay Maheshwari\*, Pan-Yang Su, and Shankar Sastry. \n
+-- 62nd IEEE Conference on Decision and Control (CDC), 2023.
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10313516 Dynamic Tolling in Arc-based Traffic Assignment Models] \n
+-- *Chih-Yuan Chiu*, Chinmay Maheshwari, Pan-Yang Su, and Shankar Sastry. \n
+-- 59th Annual Allerton Conference on Communication, Control, and Computing, 2023.
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10383423 Scenario-Game ADMM: A Parallelized Scenario-Based Solver for Stochastic Noncooperative Games] \n
+-- Jingqi Li, *Chih-Yuan Chiu*, Lasse Peters, Fernando Palafox\*, Mustafa Karabag\*, Javier Alonso-Mora, Somayeh Sojoudi, Claire Tomlin, David Fridovich-Keil. \n
+-- 62nd IEEE Conference on Decision and Control (CDC), 2023.
+
+- [https://dl.acm.org/doi/pdf/10.5555/3545946.3598746 Cost Inference for Feedback Dynamic Games from Noisy Partial State Observations and Incomplete Trajectories] \n
+-- Jingqi Li, *Chih-Yuan Chiu*, Lasse Peters, Somayeh Sojoudi, Claire Tomlin, David Fridovich-Keil. \n
+-- International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023.
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10155957 SLAM Backends with Objects in Motion: A Unifying Framework and Tutorial] \n
+-- *Chih-Yuan Chiu*. \n
+-- American Control Conference (ACC), 2023.
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9992656 GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios] \n
+-- *Chih-Yuan Chiu*, and David Fridovich-Keil. \n
+-- 61st IEEE Conference on Decision and Control (CDC), 2022.
+
+- [https://proceedings.mlr.press/v151/maheshwari22a/maheshwari22a.pdf Zeroth-Order Methods for Convex-Concave Min-max Problems: Applications to Decision-Dependent Risk Minimization] \n
+-- Chinmay Maheshwari\*, *Chih-Yuan Chiu*\*, Eric Mazumdar, Shankar Sastry, and Lillian Ratliff. \n
+-- Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, PMLR, 2021.
+
+- [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9560788 Encoding Defensive Driving as a Dynamic Nash Game] \n
+-- *Chih-Yuan Chiu*\*, David Fridovich-Keil\*, and Claire Tomlin. \n
+-- IEEE International Conference on Robotics and Automation, 2021.
+
+- [https://www.roboticsproceedings.org/rss16/p096.pdf Eyes-Closed Safety Kernels: Safety for Autonomous Systems Under Loss of Observability] \n
+-- Forrest Laine, *Chih-Yuan Chiu*, and Claire Tomlin. \n
+-- Robotics: Science and Systems, 2020.
+
+
