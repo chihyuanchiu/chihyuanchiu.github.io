@@ -11,11 +11,25 @@ Please find below a selected list of my preprints, refereed conference publicati
 # -- *Chih-Yuan Chiu*. \n
 # -- (submitted to) IEEE Intelligent Transportation Systems Conference, 2024.
 
-=== Selected Journal Publications:
+# === Selected Journal Publications:
+=== Journal Publications:
+
+- [https://ieeexplore.ieee.org/abstract/document/11513900 PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation] \n
+-- Jihoon Hong, *Chih-Yuan Chiu*, Sara Fridovich-Keil, Glen Chou. \n
+-- IEEE Robotics and Automation Letters (L-CSS), 2026.
+
+- [https://ieeexplore.ieee.org/abstract/document/11455925 Constraint Learning in Multi Agent Dynamic Games from Demonstrations of Local Nash Interactions] \n
+-- Zhouyu Zhang\*, *Chih-Yuan Chiu*\*, and Glen Chou. \n
+-- IEEE Robotics and Automation Letters (RA-L), 2026.
+
+- [https://ieeexplore.ieee.org/abstract/document/11363606 Learning Constraints from Stochastic Partially-Observed Closed-Loop Demonstrations] \n
+-- *Chih-Yuan Chiu*\*, Zhouyu Zhang\*, and Glen Chou. \n
+-- IEEE Robotics and Automation Letters (RA-L), 2026.
 
 - [https://ieeexplore.ieee.org/abstract/document/11008557 Robustness of Incentive Mechanisms Against System Misspecification in Congestion Games] \n
 -- *Chih-Yuan Chiu* and Bryce Ferguson. \n
 -- IEEE Control and Systems Letters (L-CSS), 2025.
+
 - [https://ieeexplore.ieee.org/abstract/document/10766403 To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-sum Linear Quadratic Dynamic Games?] \n
 -- *Chih-Yuan Chiu*\*, Jingqi Li\*, Maulik Bhatt, and Negar Mehr. \n
 -- IEEE Control and Systems Letters (L-CSS), 2024.
@@ -37,6 +51,18 @@ Please find below a selected list of my preprints, refereed conference publicati
 -- IEEE Robotics and Automation Letters (RA-L), 2022.
 
 === Selected Conference Publications:
+
+- [https://ieeexplore.ieee.org/document/11615953 Control via Incentives and Information in Socio-technical Systems: A Tutorial] \n
+-- Tamer Basar\*, Subhonmesh Bose\*, Philip Brown\*, *Chih-Yuan Chiu*\*, Bryce L. Ferguson\*, Chinmay Maheshwari\*, Ketan Savla\*, Raj Kiriti Velicheti\*, and Manxi Wu\*. \n
+-- American Control Conference (ACC), 2026.
+
+- [https://arxiv.org/pdf/2604.16447 Distributionally Robust Tolls for Traffic Networks with Affine Latency Functions] \n
+-- *Chih-Yuan Chiu*, Sarah HQ Li\*, Bryce L Ferguson\*. \n
+-- 65th IEEE Conference on Decision and Control (CDC), 2026.
+
+- [https://arxiv.org/pdf/2604.27355 Over-Approximating Minimizer Sets of Constrained Convex Programs with Parametric Uncertainty via Reachability Analysis] \n
+-- *Chih-Yuan Chiu*. \n
+-- 65th IEEE Conference on Decision and Control (CDC), 2026.
 
 - [https://arxiv.org/pdf/2509.20355 Approximately Optimal Toll Design for Efficiency and Equity in Arc-Based Traffic Assignment Models] \n
 -- *Chih-Yuan Chiu*. \n
